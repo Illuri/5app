@@ -7,4 +7,4 @@
 5. Run npm install -g node-modules
 
 6. Then run npm serve to run the service
-7. If build succeeded Now try to access defined API using URL: http://127.0.0.1:8081/request or http://localhost:8081/request
+7. If build succeeded Now try to access defined API using URL: http://127.0.0.1:8081 or http://localhost:8081
